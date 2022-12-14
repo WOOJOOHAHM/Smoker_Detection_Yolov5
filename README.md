@@ -1,4 +1,4 @@
-# Remove Duplicate by difPY_분류_비교.ipynb in two ways.
+# Remove Duplicate by remove_duplicate.ipynb in two ways.
 ### 1. Use difPY package that remove duplicate image in raw image Dataset
 ### 2. Find same file name, size and name than removed by and condition.
 ---
